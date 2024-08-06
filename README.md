@@ -2,3 +2,6 @@
 
 # QuizApp
 A quiz application for ITWEB student development. 
+
+Pages Link:
+https://patrickfrankaiu.github.io/QuizApp/
